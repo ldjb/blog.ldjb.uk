@@ -1,0 +1,4 @@
+/feed https://ldjb.jp/feed 200
+/feed.xml https://ldjb.jp/feed 200
+/rss https://ldjb.jp/feed 200
+/* https://ldjb.jp/:splat 302
