@@ -1,4 +1,5 @@
 /feed https://ldjb.jp/feed 200
 /feed.xml https://ldjb.jp/feed 200
 /rss https://ldjb.jp/feed 200
+/ /gdpr.html 451 Country=at,be,bg,cy,cz,de,dk,ee,es,fi,fr,gb,gr,hr,hu,ie,it,lt,lu,lv,mt,nl,pl,pt,ro,se,si,sk
 /* https://ldjb.jp/:splat 302
